@@ -2,7 +2,7 @@
   "name":        "Heroku Ping",
   "description": "A ruby application to keep Heroku Dynos alive.",
   "keywords":    ["ruby", "heroku", "ping"],
-  "repository":  "https://github.com/thoughtpolice/heroku-ping",
+  "repository":  "https://github.com/dhavalthakkar93/heroku-ping",
 
   "env": {
     "PING_URL": {
