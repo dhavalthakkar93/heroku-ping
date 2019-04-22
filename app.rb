@@ -5,6 +5,8 @@ require 'net/http'
 require 'net/https'
 require 'clockwork'
 require 'logger'
+require 'active_support/all'
+include Clockwork
 
 ## -----------------------------------------------------------------------------
 ## -- Init ---------------------------------------------------------------------
